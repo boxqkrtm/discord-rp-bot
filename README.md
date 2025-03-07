@@ -1,4 +1,6 @@
-# Discord Adina Bot Core
+# Discord RP Bot Core
+- example adina bot
+
 
 # Requirements
 python 3.9
